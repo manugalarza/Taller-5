@@ -29,7 +29,9 @@ public class PedidoTest {
 	
 	@Test
 	public void idCorrecto() {
-		assertEquals(2,pedido.getIdPedido(),"Ese no es el id del pedido");
+		int id = pedido.getIdPedido();
+		Pedido pedido2 = new Pedido("Santiago Santana","Calle 34");
+		assertEquals(id+1,pedido2.getIdPedido(),"Ese no es el id del pedido");
 	}
 	
 	@Test
