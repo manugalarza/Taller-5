@@ -1,0 +1,7 @@
+Cliente: Murphy Murfes
+Dirección: Calle 34
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0

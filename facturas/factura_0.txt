@@ -1,0 +1,7 @@
+Cliente: Pedro Humedal
+Dirección: Calle 67
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0
